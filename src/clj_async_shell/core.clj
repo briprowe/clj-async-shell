@@ -32,6 +32,6 @@
 (comment
 
   (def-async-sh get-devices "adb" ["devices"])
-  (defn get-devices
-    (fn [results]
-      (println "results:" results))))
+  (get-devices
+   (fn [results]
+     (println "results:" results))))
