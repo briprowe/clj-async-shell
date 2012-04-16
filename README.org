@@ -14,6 +14,11 @@ Add this to the dependencies in your project.clj:
    [clj-async-shell "0.0.2-SNAPSHOT"]
 #:END_SRC
 
+** TODOs
+*** implement string splitting
+*** Use java.nio.channels.Pipe to make this truly asynchronous
+
+
 ** License
 
 Copyright © 2012 Brian Rowe
