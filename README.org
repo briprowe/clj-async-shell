@@ -11,7 +11,7 @@ you look into using [[http://clojurewise.blogspot.com/2011/02/popen-sub-process-
 Add this to the dependencies in your project.clj:
 
 #:BEGIN_SRC clojure
-   [clj-async-shell "0.0.1-SNAPSHOT"]
+   [clj-async-shell "0.0.2-SNAPSHOT"]
 #:END_SRC
 
 ** License
