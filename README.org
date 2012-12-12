@@ -4,7 +4,7 @@ Make use of clojure.java.shell asynchronously.
 
 NOTE: This library is currently a *long* way from what it could be. It
 is a quick one off written in support of a larger project. I suggest
-you look into using [[http://clojurewise.blogspot.com/2011/02/popen-sub-process-library.html][popen]] instead.
+you look into using [[https://github.com/Raynes/conch][conch]] instead.
 
 ** Usage
 
